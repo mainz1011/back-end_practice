@@ -1,0 +1,21 @@
+{
+    "firstName": "John",
+    "lastName": "Smith",
+    "age": 43,
+    "hobbies": [
+        "jogging",
+        "biking",
+        "reading"
+    ],
+    "hasChildren": true,
+    "children": [
+        {
+            "firstName": "Josh",
+            "age": 7
+        },
+        {
+            "firstName": "Joey",
+            "age": 5
+        }
+    ]
+}
